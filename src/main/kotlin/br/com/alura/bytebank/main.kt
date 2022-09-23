@@ -1,5 +1,4 @@
-import modelo.Cliente
-import novomodelo.Cliente as NovoCliente
+import br.com.alura.bytebank.modelo.Cliente
 
 fun main() {
 
@@ -8,6 +7,5 @@ fun main() {
         cpf = "666.666.666-66",
         senha = 1
     )
-    val clienteNovo = NovoCliente()
 
 }

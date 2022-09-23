@@ -1,4 +1,4 @@
-package modelo
+package br.com.alura.bytebank.modelo
 
 abstract open class Conta(
     var titular: String,
